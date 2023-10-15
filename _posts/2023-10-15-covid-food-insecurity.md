@@ -36,9 +36,9 @@ This study was a guide to measuring household food security. The authors used th
 
 This study also used many datasets available to the public including but not limited to:
 
--How is each US state handling coronavirus
--Food Insecurity and Mental Illnesses
--Food insecurity is associated with chronic disease among low-income NHANES participants
+- How is each US state handling coronavirus
+- Food Insecurity and Mental Illnesses
+- Food insecurity is associated with chronic disease among low-income NHANES participants
 
 
 **Question 4: Why are they interested in this data?**
