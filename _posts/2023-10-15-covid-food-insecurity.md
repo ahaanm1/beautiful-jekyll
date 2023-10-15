@@ -49,31 +49,31 @@ The two women who conducted this study both work in departments related to food 
 
 **Data Collected**:
 All of this is compared to with different levels of food insecurity
--Age
--Sex
--Race
--Household Size
--Marital Status
--Children in Household
--Income
--Highest Level of Education
--Student
--House Ownership
--Health Insurance
--Political Party
--SNAP benefits
--Region of Residence
--US adults that stocked up 2 weeks of food(Public Health Recommendations)
+- Age
+- Sex
+- Race
+- Household Size
+- Marital Status
+- Children in Household
+- Income
+- Highest Level of Education
+- Student
+- House Ownership
+- Health Insurance
+- Political Party
+- SNAP benefits
+- Region of Residence
+- US adults that stocked up 2 weeks of food(Public Health Recommendations)
 At different levels of food insecurity: percent that 
--Don't have enough food to feed myself/my family
--Can't get essential household items
--Don't have enough money to pay bills
--Don't have enough money to pay rent/mortgage
--Can't get medications
--Can't get healthcare I need
--Don't have enough childcare
--Haven't been able to work due to lack of childcare 
--Haven't been able to work because I have been sick
+- Don't have enough food to feed myself/my family
+- Can't get essential household items
+- Don't have enough money to pay bills
+- Don't have enough money to pay rent/mortgage
+- Can't get medications
+- Can't get healthcare I need
+- Don't have enough childcare
+- Haven't been able to work due to lack of childcare 
+- Haven't been able to work because I have been sick
 There are also more questions related to COVID in the workplace at different levels of food insecurity
 
 For the data they wanted to collect, they answered all major questions. In order to fully capture food insecurity other than figure 2 about 2 weeks of food, I think it would be good to use the Food Insecurity Experience Scale, which asks 8 questions that could help the data analyzers to conclusively understand the difference Covid-19 is making within food insecurity.
