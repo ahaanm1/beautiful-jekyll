@@ -2,7 +2,7 @@
 layout: post
 title: Lab 2 - Covid-19 Effect on Food Insecurity
 subtitle: Understanding Data Studies About Food Insecurity and Covid
-cover-img: /assets/img/all-digimon-adventure-characters.jpeg
+cover-img: /assets/img/shutterstock_1697804203_0.jpg
 thumbnail-img: /assets/img/eOiV-2uiH60YZtopuYpw3euERLpv6rj3rF6DqfYTkqM.jpg
 share-img: /assets/img/all-digimon-adventure-characters.jpeg
 tags: [books, test]
