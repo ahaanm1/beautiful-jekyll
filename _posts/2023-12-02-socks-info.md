@@ -2,9 +2,9 @@
 layout: post
 title: Lab 3 - Socks
 subtitle: Analyzing Sock Data using APIs
-cover-img: /assets/img/
+cover-img: /assets/img/christmas-at-home-all-together-royalty-free-image-1638823315.jpg
 thumbnail-img: /assets/img/
-share-img: /assets/img/
+share-img: /assets/img/christmas-at-home-all-together-royalty-free-image-1638823315.jpg
 tags: [books, test]
 ---
 ## 1. Discuss how you used the API to obtain the dataset.
