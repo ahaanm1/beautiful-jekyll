@@ -3,7 +3,7 @@ layout: post
 title: Lab 4 - Michael Jordan's Career
 subtitle: Analyzing Statistics of Michael Jordan
 cover-img: /assets/img/michael-jordan-through-the-years-14.jpg.webp
-thumbnail-img: /assets/img/codecodes.jpeg
+thumbnail-img: /assets/img/Michael-Jordan.jpg.webp
 share-img: /assets/img/michael-jordan-through-the-years-14.jpg.webp
 tags: [books, test]
 ---
