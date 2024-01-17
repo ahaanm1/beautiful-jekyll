@@ -34,7 +34,7 @@ It can also be centered!
 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
+Here is a code chunk:
 
 ~~~
 var foo = function(x) {
